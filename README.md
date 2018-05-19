@@ -1,0 +1,5 @@
+# Grow-Asia-Hackathon
+
+In Indonesia, oil palm cultivation has become important to rural livelihoods, particularly amongst smallholder farmers (“smallholders”). The focus of the Growth Asia Hackathon 2018 is independent smallholders, who have a significant role in the expansion of oil palm cultivation onto marginal lands or those not officially zoned for agriculture. As the palm oil ecosystem transitions to a more sustainable value chain, it is critical that smallholders become key players in the process. 
+
+Created a Internet of Things (IoT) Prototype for smallholders to receive weather report and other essential information. Integrated with a system we created to collect real-time data from farmers and provide them with geo-spatial data and weather forecast to improve productivity. Developed a dashboard as a platform for stakeholders to view farmers by their grading and identify opportunity for investments. Showcased to a panel of senior executives from Grow Asia, Unilever, Bayer, MUFG, East Ventures and industry experts in the audience.
